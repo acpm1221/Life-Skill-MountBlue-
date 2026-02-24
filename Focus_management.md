@@ -27,8 +27,3 @@ No phone. No checking email. No switching tabs. Just you and the work. Cal Newpo
 *   **Wastes time**: You open phone for 2 minutes, end up scrolling 40 minutes.
 *   **Reduces boredom tolerance**: You forget how to just sit and think. You always need phone stimulation.
 
-## My take on starting hard tasks
-
-When I avoid a task, it's usually because it feels scary or boring. The trick is to **work just 30 seconds**. That's it. Then stop. Then remind yourself - "I can do this".
-
-After doing this a few times, brain starts believing you really can do it. Works better than waiting for motivation to come.
