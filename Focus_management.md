@@ -1,6 +1,4 @@
-# Focus Management - Simple Answers
-
-Here are my answers based on the videos. I tried to keep it simple, like one beginner explaining to another.
+# Focus Management 
 
 ## Question 1: What is Deep Work?
 
